@@ -26,7 +26,7 @@ This project is a complete end-to-end implementation of a Retrieval-Augmented Ge
 
 ## Project Overview
 
-The objective of this project was to build a system that can understand natural language queries and retrieve relevant quotes from the `Abirate/english_quotes` dataset. The workflow involved the entire lifecycle of a modern NLP application: in-depth data analysis and cleaning, fine-tuning a sentence embedding model, building and evaluating a RAG pipeline, and deploying a user-friendly web application.
+The objective of this project was to build a system that can understand natural language queries and retrieve relevant quotes from the **Abirate/english_quotes:** [https://huggingface.co/datasets/Abirate/english_quotes](https://huggingface.co/datasets/Abirate/english_quotes)dataset. The workflow involved the entire lifecycle of a modern NLP application: in-depth data analysis and cleaning, fine-tuning a sentence embedding model, building and evaluating a RAG pipeline, and deploying a user-friendly web application.
 
 ## Features
 

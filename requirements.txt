@@ -1,0 +1,12 @@
+pandas
+faiss-cpu
+sentence-transformers
+groq
+streamlit
+ragas
+langchain-groq
+langchain-community
+datasets
+numpy
+torch
+transformers
